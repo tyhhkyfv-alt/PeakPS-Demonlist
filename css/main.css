@@ -9,7 +9,7 @@
     --color-on-error: white;
 }
 header:not(.dark) {
-  background-color: #3498db;
+  background-color: #000080;
 }
 
 main.dark,
