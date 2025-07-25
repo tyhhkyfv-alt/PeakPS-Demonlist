@@ -8,7 +8,7 @@
     --color-error: #de0000;
     --color-on-error: white;
 }
-header {
+.header {
   background-color: #000080;
 }
 
