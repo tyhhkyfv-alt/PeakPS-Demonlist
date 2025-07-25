@@ -8,8 +8,8 @@
     --color-error: #de0000;
     --color-on-error: white;
 }
-.header {
-  background-color: #000080;
+header:not(.dark) {
+  background-color: #3498db;
 }
 
 main.dark,
