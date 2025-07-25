@@ -121,7 +121,10 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it still
+                    </p>
+                    <p>
+                        Levels that aren't top 150 worthy can still be added to the demonlist either way
                     </p>
                 </div>
             </div>
