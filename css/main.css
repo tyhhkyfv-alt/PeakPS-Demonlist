@@ -8,9 +8,6 @@
     --color-error: #de0000;
     --color-on-error: white;
 }
-.logo {
-  background-color: #000080;
-}
 
 main.dark,
 header.dark {
