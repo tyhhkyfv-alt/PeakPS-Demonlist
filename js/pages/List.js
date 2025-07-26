@@ -126,6 +126,13 @@ export default {
                     <p>
                         Levels that aren't top 150 worthy can still be added to the demonlist either way
                     </p>
+                    <p>
+                        You should always have cheat indicator, cps counter, fps counter and Please specify what mod menu you are using when submitting
+                   </p>
+                   <p>
+                       You must include raw footage without any possible edits and if you are on ios you have to show yourself opening gd in the raw footage only exception from this rule is for easy demons up until hard demons
+starting from insane demons you have to give raw footage you can send it to either tyhhkyfv, mahermanv2 or _ni_whitt
+                  </p>
                 </div>
             </div>
         </main>
